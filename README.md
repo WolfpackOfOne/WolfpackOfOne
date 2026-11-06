@@ -10,7 +10,7 @@ I am a quantitative finance professional and lecturer focused on:
 - Python, SQL, and applied financial technology
 - AI-assisted research and development workflows
 
-## Featured Project
+## Featured Projects
 
 ### Q-agent
 
@@ -20,6 +20,14 @@ The goal is to bridge classroom quant finance, professional research practices, 
 
 - GitHub: https://github.com/WolfpackOfOne/Q-agent
 - Docs: https://wolfpackofone.github.io/Q-agent/
+
+### Structural Break Detection
+
+My research and deployment system for the **2026 ADIA Lab / CrunchDAO Structural Break Challenge — Real-Time Edition** finished **90th out of 729 (top 12.3%)**.
+
+The project combines causal streaming features, LightGBM and CatBoost specialists, and time-conditional calibration for online structural-break detection. The public repository includes the architecture, reproducible research code, experiment records, and negative results.
+
+- [Public repository](https://github.com/WolfpackOfOne/structural-break-public)
 
 ## Current Focus
 
